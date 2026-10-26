@@ -3,11 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%236DB33F&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+Programador+Universitario+(UNLu);Backend+Developer;Java+%7C+Spring+%7C+PostgreSQL;Abierto+a+oportunidades+junior"></a>
 </p>
 
-<br>
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=GustavoContardi&label=Visitas%20al%20perfil&color=0047AB&style=plastic" alt="GustavoContardi" height=25px/>
-</p>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> Sobre mí
 
