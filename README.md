@@ -20,8 +20,7 @@
 - 🧩 Trabajo con `Java` y el ecosistema `Spring` (Boot, Data JPA, Security) y modelo datos en `PostgreSQL`.
 - 🚀 Me interesan las APIs REST, la arquitectura de software y la seguridad.
 - 🤝 Aplico `POO`, patrones de diseño y metodologías ágiles (`Scrum`, `Kanban`).
-- 📍 Mercedes, Buenos Aires, Argentina.
-- 💬 Abierto a oportunidades junior y pasantías.
+- 📍 Buenos Aires, Argentina.
 
 <br>
 
