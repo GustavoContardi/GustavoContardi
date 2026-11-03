@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Gustavo Contardi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%236DB33F&size=25&center=true&vCenter=true&width=600&height=100&lines=Analista+Programador+Universitario+(UNLu);Backend+Developer;Java+%7C+Spring+%7C+PostgreSQL;Abierto+a+oportunidades+junior"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%236DB33F&size=25&center=true&vCenter=true&width=800&height=100&lines=Analista+Programador+Universitario+(UNLu);Backend+Developer;Java+%7C+Spring+%7C+PostgreSQL"></a>
 </p>
 
 
@@ -53,6 +53,7 @@
 <p align="center">
 	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white"></a> &emsp;
 	<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"></a> &emsp;
+	<a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white"></a> &emsp;
 	<a href="#"><img alt="Liquibase" src="https://img.shields.io/badge/Liquibase-%232962FF.svg?style=plastic&logo=liquibase&logoColor=white"></a>
 </p>
 
@@ -65,6 +66,13 @@
 	<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a> &emsp;
 	<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=white"></a> &emsp;
 	<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width=50px></picture> Observabilidad
+
+<p align="center">
+	<a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white"></a> &emsp;
+	<a href="#"><img alt="Loki" src="https://img.shields.io/badge/Grafana%20Loki-%23F5A800.svg?style=plastic&logo=grafana&logoColor=white"></a>
 </p>
 
 <br>
